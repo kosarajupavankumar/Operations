@@ -1,0 +1,80 @@
+2022-01-23 06:01:53,760 INFO Logging Started
+2022-01-23 06:01:53,761 INFO List submitted to the listOperations file 
+2022-01-23 06:01:53,761 INFO ListOperations class initialized
+2022-01-23 06:01:53,761 INFO Getting list [1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12]
+2022-01-23 06:01:53,762 INFO Sorting list [1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12]
+2022-01-23 06:01:53,762 INFO Returning sorted list [1, 2, 2, 4, 6, 10, 12, 45, 56, 78, 98, 100]
+2022-01-23 06:01:53,762 INFO Reversing list [1, 2, 2, 4, 6, 10, 12, 45, 56, 78, 98, 100]
+2022-01-23 06:01:53,762 INFO Returning list [100, 98, 78, 56, 45, 12, 10, 6, 4, 2, 2, 1]
+2022-01-23 06:01:53,762 INFO Adding item 10 to list
+2022-01-23 06:01:53,762 INFO Returning list [100, 98, 78, 56, 45, 12, 10, 6, 4, 2, 2, 1, 10]
+2022-01-23 06:01:53,762 INFO Removing item 10 from list
+2022-01-23 06:01:53,763 INFO Returning list [100, 98, 78, 56, 45, 12, 6, 4, 2, 2, 1, 10]
+2022-01-23 06:01:53,763 INFO Set submitted to the setOperations file 
+2022-01-23 06:01:53,764 INFO SetOperations class initialized
+2022-01-23 06:01:53,764 INFO Adding element 1000 to the set
+2022-01-23 06:01:53,764 INFO Element 1000 added to the set
+2022-01-23 06:01:53,764 INFO Adding multiple elements [10, 20, 30] to the set
+2022-01-23 06:01:53,764 INFO Multiple elements [10, 20, 30] added to the set--> {1, 2, 98, 100, 4, 6, 1000, 10, 12, 45, 78, 20, 56, 30}
+2022-01-23 06:01:53,764 INFO Deleting element 1000 from the set
+2022-01-23 06:01:53,764 INFO Element 1000 deleted from the set--> {1, 2, 98, 100, 4, 6, 10, 12, 45, 78, 20, 56, 30}
+2022-01-23 06:01:53,765 INFO Clearing all the elements in the set
+2022-01-23 06:01:53,765 INFO All the elements in the set cleared successfully --> set()
+2022-01-23 06:01:53,765 INFO Tuple submitted to the tupleOperations file 
+2022-01-23 06:01:53,766 INFO TupleOperations class initialized
+2022-01-23 06:01:53,766 INFO Get the tuple --> (1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12)
+2022-01-23 06:01:53,766 INFO Sorting the tuple --> [1, 2, 2, 4, 6, 10, 12, 45, 56, 78, 98, 100]
+2022-01-23 06:01:53,766 INFO Add element in the tuple --> 100
+2022-01-23 06:01:53,766 INFO Tuple after adding element --> (1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12, 100)
+2022-01-23 06:01:53,766 INFO Index of 3 the tuple --> 2
+2022-01-23 06:01:53,767 INFO Slicing the tuple --> (1, 2, 4, 2, 10)
+2022-01-23 06:01:53,767 INFO Dictionary submitted to the dictionaryOperations file 
+2022-01-23 06:01:53,767 INFO DictOperation class initialized
+2022-01-23 06:01:53,768 INFO Getting keys in the dictionary
+2022-01-23 06:01:53,768 INFO All the keys in dictionary --> dict_keys([1, 2, 3, 4, 5]) 
+2022-01-23 06:01:53,768 INFO Getting values in the dictionary
+2022-01-23 06:01:53,768 INFO All the values in dictionary --> dict_values([10, 20, 30, 40, 50]) 
+2022-01-23 06:01:53,768 INFO Inserting the dictionary
+2022-01-23 06:01:53,768 INFO Dictionary inserted {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 'name': 'pavan'}
+2022-01-23 06:01:53,768 INFO Deleting the dictionary
+2022-01-23 06:01:53,769 INFO Dictionary deleted {1: 10, 2: 20, 3: 30, 4: 40, 5: 50}
+2022-01-23 06:01:58,527 INFO Logging Started
+2022-01-23 06:01:58,527 INFO List submitted to the listOperations file 
+2022-01-23 06:01:58,528 INFO ListOperations class initialized
+2022-01-23 06:01:58,528 INFO Getting list [1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12]
+2022-01-23 06:01:58,528 INFO Sorting list [1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12]
+2022-01-23 06:01:58,528 INFO Returning sorted list [1, 2, 2, 4, 6, 10, 12, 45, 56, 78, 98, 100]
+2022-01-23 06:01:58,528 INFO Reversing list [1, 2, 2, 4, 6, 10, 12, 45, 56, 78, 98, 100]
+2022-01-23 06:01:58,528 INFO Returning list [100, 98, 78, 56, 45, 12, 10, 6, 4, 2, 2, 1]
+2022-01-23 06:01:58,528 INFO Adding item 10 to list
+2022-01-23 06:01:58,528 INFO Returning list [100, 98, 78, 56, 45, 12, 10, 6, 4, 2, 2, 1, 10]
+2022-01-23 06:01:58,528 INFO Removing item 10 from list
+2022-01-23 06:01:58,528 INFO Returning list [100, 98, 78, 56, 45, 12, 6, 4, 2, 2, 1, 10]
+2022-01-23 06:01:58,528 INFO Set submitted to the setOperations file 
+2022-01-23 06:01:58,529 INFO SetOperations class initialized
+2022-01-23 06:01:58,529 INFO Adding element 1000 to the set
+2022-01-23 06:01:58,529 INFO Element 1000 added to the set
+2022-01-23 06:01:58,529 INFO Adding multiple elements [10, 20, 30] to the set
+2022-01-23 06:01:58,529 INFO Multiple elements [10, 20, 30] added to the set--> {1, 2, 98, 100, 4, 6, 1000, 10, 12, 45, 78, 20, 56, 30}
+2022-01-23 06:01:58,529 INFO Deleting element 1000 from the set
+2022-01-23 06:01:58,529 INFO Element 1000 deleted from the set--> {1, 2, 98, 100, 4, 6, 10, 12, 45, 78, 20, 56, 30}
+2022-01-23 06:01:58,529 INFO Clearing all the elements in the set
+2022-01-23 06:01:58,529 INFO All the elements in the set cleared successfully --> set()
+2022-01-23 06:01:58,529 INFO Tuple submitted to the tupleOperations file 
+2022-01-23 06:01:58,530 INFO TupleOperations class initialized
+2022-01-23 06:01:58,530 INFO Get the tuple --> (1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12)
+2022-01-23 06:01:58,530 INFO Sorting the tuple --> [1, 2, 2, 4, 6, 10, 12, 45, 56, 78, 98, 100]
+2022-01-23 06:01:58,530 INFO Add element in the tuple --> 100
+2022-01-23 06:01:58,530 INFO Tuple after adding element --> (1, 2, 4, 2, 10, 6, 78, 100, 45, 98, 56, 12, 100)
+2022-01-23 06:01:58,530 INFO Index of 3 the tuple --> 2
+2022-01-23 06:01:58,530 INFO Slicing the tuple --> (1, 2, 4, 2, 10)
+2022-01-23 06:01:58,530 INFO Dictionary submitted to the dictionaryOperations file 
+2022-01-23 06:01:58,531 INFO DictOperation class initialized
+2022-01-23 06:01:58,531 INFO Getting keys in the dictionary
+2022-01-23 06:01:58,531 INFO All the keys in dictionary --> dict_keys([1, 2, 3, 4, 5]) 
+2022-01-23 06:01:58,531 INFO Getting values in the dictionary
+2022-01-23 06:01:58,531 INFO All the values in dictionary --> dict_values([10, 20, 30, 40, 50]) 
+2022-01-23 06:01:58,531 INFO Inserting the dictionary
+2022-01-23 06:01:58,531 INFO Dictionary inserted {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 'name': 'pavan'}
+2022-01-23 06:01:58,531 INFO Deleting the dictionary
+2022-01-23 06:01:58,531 INFO Dictionary deleted {1: 10, 2: 20, 3: 30, 4: 40, 5: 50}
